@@ -21,8 +21,8 @@ You can use the *MyAnimeList* dataset or any anime metadata dataset (title, genr
 Input: Naruto
 Recommendations: Bleach, One Piece, Fairy Tail, etc.
 
-## 🚀 Run It Yourself**
-Open in Google Colab: [Colab Link Here](#)
+## 🚀 Run It Yourself
+Open in Google Colab: [Colab Link Here](https://colab.research.google.com/drive/159bnTYQmhVi7hwF1moTNfX6f2r11XP1V?usp=sharing)
 
 ## 📎 How to Use
 1. Upload your anime dataset
