@@ -1,4 +1,4 @@
-# 🎌 Anime Recommendation System using Content-Based Filtering
+# Anime Recommendation System using Content-Based Filtering
 
 This project implements a content-based recommendation engine for anime, built using Python and NLP techniques. It suggests similar anime titles based on the selected anime’s genres and descriptions by using TF-IDF vectorization and cosine similarity.
 
