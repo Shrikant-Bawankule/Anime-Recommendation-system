@@ -19,3 +19,4 @@ pip install gradio pandas scikit-learn
 2. Run the App
 python anime_gradio_ui.py
 
+3. Run Gradio App
