@@ -1,4 +1,4 @@
-Anime Recommendation System 
+**Anime Recommendation System**
 
 This project is a content-based Anime Recommendation System built using Python and Google Colab.
 
@@ -15,7 +15,24 @@ It uses user preferences and anime metadata to suggest new anime titles that ali
 - Utilizes cosine similarity on TF-IDF vectors
 - Easy to use and modify for different datasets
 
-📁 Dataset
+**📁 Dataset
 You can use the *MyAnimeList* dataset or any anime metadata dataset (title, genre, synopsis).
+
+
+
+
+
+
+**🚀 Run It Yourself**
+Open in Google Colab: [Colab Link Here](#)
+
+## 📎 How to Use
+1. Upload your anime dataset
+2. Run the notebook step by step
+3. Use the recommendation cell to get similar anime
+
+## 👨‍💻 Author
+Shrikant Bawankule
+
 
 
