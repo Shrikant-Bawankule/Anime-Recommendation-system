@@ -1,22 +1,21 @@
-# anime-recommender-system
-A content-based anime recommendation system using Gradio and TF-IDF
+# Anime Recommendation System 🎌
 
-This is a content-based Anime Recommender System built using:
-- TF-IDF Vectorization
-- Cosine Similarity
-- Gradio UI
+This project is a content-based Anime Recommendation System built using Python and Google Colab.
 
-How it Works
+It uses user preferences and anime metadata to suggest new anime titles that align with user interests.
 
-The app analyzes anime features like genre, type, rating, and popularity to recommend similar shows based on your input.
+🔧 Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn (TF-IDF, Cosine Similarity)
+- Google Colab
 
-Run It
+📌 Features
+- Recommends anime based on title similarity
+- Utilizes cosine similarity on TF-IDF vectors
+- Easy to use and modify for different datasets
 
-1. Install Dependencies
-bash
-pip install gradio pandas scikit-learn
+📁 Dataset
+You can use the *MyAnimeList* dataset or any anime metadata dataset (title, genre, synopsis).
 
-2. Run the App
-python anime_gradio_ui.py
 
-3. Run Gradio App
