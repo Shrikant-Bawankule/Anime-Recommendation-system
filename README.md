@@ -1,4 +1,4 @@
-# Anime Recommendation System 🎌
+Anime Recommendation System 
 
 This project is a content-based Anime Recommendation System built using Python and Google Colab.
 
