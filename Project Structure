@@ -1,0 +1,6 @@
+Anime_Recommendation_System/
+├── Anime_Recommendation_System.ipynb
+├── anime.csv            ← dataset (optional to upload)
+├── rating.csv           ← dataset (optional to upload)
+├── requirements.txt     ← auto-generated library list
+└── README.md
